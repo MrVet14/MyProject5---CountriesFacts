@@ -1,0 +1,49 @@
+{
+	“results":[
+     	{
+        		“country”:”United States of America",
+        		“capital”:”Washington D.C.”,
+        		“size”:”22,294.19 km2",
+			“population”:”3,569,284”,
+			“currency”:”United States dollar”,
+			“headOfGov”:”Joe Biden”,
+			“language”:”English”
+     	},	
+		{
+        		“country”:”Republic of Cuba",
+        		“capital”:”Havana”,
+        		“size”:”109,884 km2",
+			“population”:”11,181,595”,
+			“currency”:”Cuban peso”,
+			“headOfGov”:”Miguel Díaz-Canel”,
+			“language”:”Spanish”
+     	},
+		{
+        		“country”:”Republic of Belarus",
+        		“capital”:”Minsk”,
+        		“size”:”207,595 km2",
+			“population”:”9,255,524”,
+			“currency”:”Belarusian ruble”,
+			“headOfGov”:”None at The Moment”,
+			“language”:”Belarussian, Russian”
+     	},
+		{
+        		“country”:”Republic of Poland",
+        		“capital”:”Warsaw”,
+        		“size”:”312,696 km2",
+			“population”:”38,179,800”,
+			“currency”:”Złoty”,
+			“headOfGov”:”Andrzej Duda”,
+			“language”:”Polish”
+     	},
+		{
+        		“country”:”Ukraine",
+        		“capital”:”Kyiv”,
+        		“size”:”603,628km2",
+			“population”:”41,167,336”,
+			“currency”:”Hryvnia”,
+			“headOfGov”:”Volodymyr Zelenskyy”,
+			“language”:”Ukrainian”
+     	}
+	]
+}
